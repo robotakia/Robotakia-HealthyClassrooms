@@ -72,3 +72,4 @@ Jumper Wires
 Δείτε την παρουσίαση του έργου μας: https://youtu.be/98yYUOxezeM
 
 Θα βρείτε τη σελίδα του έργου μας: 
+https://openedtech.ellak.gr/robotics2026/robotakia-healthyclassrooms-exipno-sistima-elegchou-mikroklimatos-prognostikis-piotitas-aera/
